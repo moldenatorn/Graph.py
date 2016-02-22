@@ -1,0 +1,10 @@
+item1	relation	item2
+chaussettes	avant	chaussures
+pantalon	avant	chaussures
+chemise	avant	cravate
+chemise	avant	ceinture
+cravate	avant	veste
+ceinture	avant	veste
+pantalon	avant	ceinture
+sous-vetements	avant	chaussures
+sous-vetements	avant	pantalon

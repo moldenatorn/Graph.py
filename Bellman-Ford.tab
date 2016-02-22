@@ -1,0 +1,11 @@
+id1	id2	weight
+A	B	6
+A	E	7
+B	C	5
+B	D	-4
+B	E	8
+C	B	-2
+D	A	2
+D	C	7
+E	C	-3
+E	D	9

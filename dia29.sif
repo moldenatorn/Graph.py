@@ -1,0 +1,9 @@
+item1	relation item2
+u	avant	v
+u	avant	x
+x	avant	v
+v	avant	y
+y	avant	x
+w	avant	y
+w	avant	z
+z	avant	z
